@@ -10,7 +10,7 @@ When connecting via a local host on a non Linux machine, the queue url returned 
 docker run -e NODE_HOST=`docker-machine ip default` -e NODE_PORT=8000 -p 8000:9324 tddmonkey/elasticmq
 ```
 
-[Docker Hub](https://hub.docker.com/r/tddmonkey/elasticmq/)
+[Docker Hub](https://hub.docker.com/r/tnhtnh/elasticmq-docker/)
 
 # Change Log
 
